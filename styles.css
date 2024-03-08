@@ -56,6 +56,12 @@ label {
     border: none;
     border-bottom: 2px solid #5a01a7;
 }
+.results-div {
+    overflow-y: auto;
+    word-wrap: break-word;
+    min-height: 50px;
+    color: black;
+}
 .palindrome-btn {
     width: 90px;
     border: none;
